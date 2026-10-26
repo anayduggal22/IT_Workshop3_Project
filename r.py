@@ -5,9 +5,8 @@ from tensorflow import keras
 from streamlit_drawable_canvas import st_canvas
 
 st.title("CNN Digit Recognizer")
-
-st.write("Name: Anay Duggal \nRoll No.: 2025BCS0093")
-
+st.write("Name: Anay Duggal")
+st.write("Roll No.: 2025BCS0093")
 st.write("Draw a digit from 0 to 9 below.")
 
 # Loading model
