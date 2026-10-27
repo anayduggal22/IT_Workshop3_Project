@@ -1,4 +1,3 @@
-
 # CNN Digit Recognizer
 
 A handwritten digit recognition app using a CNN. Users can draw digits from 0–9 and get predictions with confidence scores.
@@ -9,3 +8,6 @@ A handwritten digit recognition app using a CNN. Users can draw digits from 0–
 
 ### Technologies Used
 Python, TensorFlow, Keras, Streamlit, NumPy, Matplotlib, Pandas, Scikit-learn, Seaborn, Jupyter Notebook.
+
+### Project Report
+Check the Project_Report.pdf in the repo for detailed project report.
